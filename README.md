@@ -10,7 +10,7 @@
   
 <h4 align="center">Tech Stack</h4>
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
-
+ <! -- comment -->
 <h5>Collaborators 🧡🙌 :</h5>
 <p>Avik Singla <a href="https://github.com/avik56">@avik56</a><br></p>
 <p>Sourabh Bhandari <a href="https://github.com/SOURABH101BHANDARI">@SOURABH101BHANDARI</a><br></p>

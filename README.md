@@ -17,8 +17,8 @@
 
 This work covers a detailed description of Formal Concept Analysis which covers how different processes in data analysis can be performed with the help of concepts. 
 
-The work begins by finding the concepts from the context followed by performing tasks like association rule mining, stability and clustering. </p>
-<b>Keywords : Data Analysis, Formal Concept Analysis, Association Rule Mining, Clustering, Stability, Concepts.</b>
+The work begins by finding the concepts from the context followed by performing tasks like implementing algorithms studied during the course of this Minor-I project like Next Closure Algorithm, Stability of Concepts. File handling with our custom built dataset and searching and storage of concepts to produce desired output. </p>
+<b>Keywords : Data Analysis, Formal Concept Analysis, Stability, Threshold, Concepts.</b>
 <h3>Introduction</h3>
 <p>Formal concept analysis is a method of data analysis which deals with object-attribute input data and aims at extracting from the data conceptual clusters also called formal concepts and data dependencies.
 
@@ -70,3 +70,33 @@ It acquires groupings, called formal concepts, from Boolean data named context, 
 10. After pushing your work, make sure to create a pull request on GitHub to make sure you and I are even on the master branch! 
 
 Congratulations 🎊 , you just contributed to our project.
+
+
+<h4><b>References</b>:</h4>
+<p>
+<b>[1]</b>  https://www.coursera.org/learn/formal-concept-analysis , Sergei Obiedkov,
+National Research University Higher School of Economics.
+ 
+<b>[2]</b> https://www.upriss.org.uk/ Uta Priss, 2006.
+<br>
+
+<b>[3]</b> Algorithms used:
+Next Closure, Stability from 
+<em><b>Dmitry I. Ignatov</b>: Introduction to Formal Concept Analysis and Its Applications in Information Retrieval and Related Fields, National Research University Higher School of Economics,</em> Moscow, 2015. https://bit.ly/2JpnYWf
+<br>
+
+<b>[4]</b> Wikipedia: https://en.wikipedia.org/wiki/Formal_concept_analysis
+
+<b>[5]</b> Financial Information for building dataset:
+<br>
+<div>
+    <ol>https://moneycontrol.com</ol>
+    <ol>https://finviz.com</ol>
+<ol>https://screener.in</ol>
+    
+
+</div>
+</p>
+
+
+
